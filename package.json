@@ -1,8 +1,8 @@
 {
-  "name": "@ihasq/codeopen",
-  "version": "0.0.0",
+  "name": "code-open",
+  "version": "0.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "src/main.ts",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
